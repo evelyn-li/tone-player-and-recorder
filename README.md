@@ -1,5 +1,6 @@
 # Tone Player/Recorder System
 An embedded system that allows you to play different tones using the keypad and record a sequence of tones that can be played back later.
+[Video Demo](https://youtu.be/ymebTnf5Pa0)
 
 ## Description
 The system has three modes: play, record, and playback. The user can switch between the modes at any time, and the current mode is indicated by three LED's.
